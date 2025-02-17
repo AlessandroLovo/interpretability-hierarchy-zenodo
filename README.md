@@ -33,7 +33,7 @@ This repo contains data and notebooks to reproduce the figures and tables presen
     - GA and IINN [here](interpretability-hierarchy/interpret_GA-IINN.ipynb)
     - CNN
         - Expected Gradient Feature Importance maps [here](interpretability-hierarchy/interpret_CNN_EGFI.ipynb)
-        - Optimal Input Maps [here](interpretability-hierarchy/CNN-optimal-input/optimal_input.ipynb)
+        - Optimal Input Maps [here](interpretability-hierarchy/interpret_CNN_OI.ipynb)
     - Scatnet [here](interpretability-hierarchy/interpret_ScatNet.ipynb)
 
 
