@@ -7,13 +7,13 @@
 [repo of manuscript](https://github.com/amaurylancelin/Interpretability-heatwaves-paper)
 [repo of supplementary material](https://github.com/amaurylancelin/SUPMAT-Interpretability-heatwaves-paper)
 
-Preprint of paper: 
+[Preprint of paper](https://arxiv.org/abs/2410.00984)
 
 ## Setup
 
 To be able to run the notebooks in this repository, you need to clone the [Climate-Learning](https://github.com/georgemilosh/Climate-Learning) repository.
 
-To do put yoursel in the same directory of this file and run
+To do put yourself in the same directory of this file and run
 
 ```bash
 git clone --recursive https://github.com/georgemilosh/Climate-Learning.git
@@ -28,7 +28,7 @@ This repo contains data and notebooks to reproduce the figures and tables presen
 ### List of notebooks
 
 - Data normalization procedure [here](interpretability-hierarchy/misc.ipynb)
-- Performance of the hierarachy [here](interpretability-hierarchy/performance.ipynb)
+- Performance of the hierarchy [here](interpretability-hierarchy/performance.ipynb)
 - Interpretability
     - GA and IINN [here](interpretability-hierarchy/interpret_GA-IINN.ipynb)
     - CNN
