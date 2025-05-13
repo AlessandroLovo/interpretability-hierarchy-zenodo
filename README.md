@@ -2,12 +2,23 @@
 
 [![DOI](https://zenodo.org/badge/803365588.svg)](https://zenodo.org/doi/10.5281/zenodo.13844551)
 
-## Useful links
-
-[repo of manuscript](https://github.com/amaurylancelin/Interpretability-heatwaves-paper)
-[repo of supplementary material](https://github.com/amaurylancelin/SUPMAT-Interpretability-heatwaves-paper)
+## Links
 
 [Preprint of paper](https://arxiv.org/abs/2410.00984)
+
+### For authorn only
+
+[repo of manuscript](https://github.com/amaurylancelin/Interpretability-heatwaves-paper)
+
+[repo of supplementary material](https://github.com/amaurylancelin/SUPMAT-Interpretability-heatwaves-paper)
+
+
+## Raw data
+
+The raw data used in by this code is available at -INSERT LINK-.
+However, you need to adapt the various `config.json` files present in this repository to properly load the data.
+The guide for how to do this is the `kwarg_correction.md` file in the data repository.
+
 
 ## Setup
 
